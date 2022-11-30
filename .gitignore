@@ -1,0 +1,3 @@
+secrets.txt
+
+// *.txt means all files that ends with .txt will be ignored
